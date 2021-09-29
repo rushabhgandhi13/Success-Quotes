@@ -1,0 +1,13 @@
+{
+    "name": "Success Quotes",
+    "description":"Learn new quotes to add value to your life and stay motivated.",
+    "version":"0.0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popout.html",
+        "default_icon": "logo.png"
+    },
+    "icons": {
+        "128": "logo.png"
+    }
+}
